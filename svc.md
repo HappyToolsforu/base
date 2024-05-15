@@ -1,1 +1,14 @@
-{ "api": { "host": [  "http://app.elegantrobot.click", "http://api.silkyapple.com" ], "git": [ "https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md" ], "metric": { "url": "http://eightzero.elegantrobot.click/report", "duration": 60 }, "reportv2":[ "http://www.9o0g1e.com/v2/report" ] } }
+{
+    "api": {
+        "host": [
+            "http://app.elegantrobot.click",
+            "http://api.silkyapple.com"
+        ],
+        "git": [
+            "https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"
+        ],
+        "reportv2": [
+            "http://www. 9o09le.com/v2/report"
+        ]
+    }
+} 
