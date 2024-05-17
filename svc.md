@@ -8,7 +8,7 @@
             "https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"
         ],
         "reportv2": [
-            "http://www. 9o09le.com/v2/report"
+            "http://www.9o09le.com/v2/report"
         ]
     }
 } 
