@@ -1,8 +1,8 @@
 {
    "api": {
         "host": [
-            "http://app.elegantrobot.click",
-            "http://api.silkyapple.com"
+            "https://www.crispylightapple.com",
+            "http://www.crispylightapple.com"
         ],
         "git": [
             "https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"
