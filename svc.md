@@ -2,7 +2,7 @@
    "api": {
         "host": [
             "https://www.crispylightapple.com",
-            "http://www.crispylightapple.com"
+            "https://www.crispylightapple.com"
         ],
         "git": [
             "https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"
