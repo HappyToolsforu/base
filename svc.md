@@ -1,8 +1,7 @@
 {
    "api": {
         "host": [
-            "https://www.crispylightapple.com",
-            "https://www.crispylightapple.com"
+            "https://www.vibraoolors.com/"
         ],
         "git": [
             "https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"
