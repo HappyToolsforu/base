@@ -8,6 +8,7 @@
         ],
         "reportv2": [
             "http://www.9o09le.com/v2/report"
-        ]
+        ],
+        "greport": "https://api.blackcatmon.com"
     }
 } 
