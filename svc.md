@@ -1,7 +1,7 @@
 {
    "api": {
         "host": [
-            "https://api.vibraoolors.com"
+            "https://api.dispoptop.com"
         ],
         "git": [
             "https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"
