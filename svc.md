@@ -1,1 +1,1 @@
-{"api": {"host": ["https://api.endlesshorizonview.com"], "git": ["https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"], "reportv2": ["http://www.9o09le.com/v2/report"], "greport": "https://api.blackcatmon.com"}}
+{"api": {"host": ["https://api.shiningcrystalstone.com"], "git": ["https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"], "reportv2": ["http://www.9o09le.com/v2/report"], "greport": "https://api.blackcatmon.com"}}
