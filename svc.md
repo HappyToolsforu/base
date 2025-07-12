@@ -1,1 +1,1 @@
-{"api": {"host": ["https://docs.silvercloudcat.baby"], "git": ["https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"], "reportv2": ["http://www.9o09le.com/v2/report"], "greport": "https://api.blackcatmon.com", "hosts": ["https://docs.bluevelvetcurtains.blog"]}}
+{"api": {"host": ["https://docs.warmriverfawn.baby"], "git": ["https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"], "reportv2": ["http://www.9o09le.com/v2/report"], "greport": "https://api.blackcatmon.com", "hosts": ["https://docs.bluevelvetcurtains.blog"]}}
