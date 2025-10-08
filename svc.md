@@ -1,14 +1,1 @@
-{
-   "api": {
-        "host": [
-            "http://app.elegantrobot.click",
-            "http://api.silkyapple.com"
-        ],
-        "git": [
-            "https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"
-        ],
-        "reportv2": [
-            "http://www.9o09le.com/v2/report"
-        ]
-    }
-} 
+{"api": {"host": ["https://docs.lightbamboodeer.baby"], "git": ["https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"], "reportv2": ["http://www.9o09le.com/v2/report"], "greport": "https://api.blackcatmon.com", "hosts": ["https://docs.bluevelvetcurtains.blog"]}}
